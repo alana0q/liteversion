@@ -1,0 +1,9 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+vip.yeyulingfeng.com	0	0	1636176978	31536000
+raw.githubusercontent.com	0	0	1636207361	31536000
+www.qianyicp.com	0	0	1636172435	31536000
+www.yeyulingfeng.com	0	0	1636177658	31536000
+ynyz-my.sharepoint.com	0	0	1636212435	31536000
+github.com	0	1	1636207361	31536000
